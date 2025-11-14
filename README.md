@@ -1,6 +1,5 @@
 # Cara penggunaan
 - pip install bs4
-- pip install BeautifulSoup
 - pip install tqdm
 - pip install googlesearch
 - pip install requests
