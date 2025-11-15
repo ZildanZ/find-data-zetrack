@@ -1,7 +1,7 @@
 # Cara penggunaan
 - pip install bs4
 - pip install tqdm
-- pip install googlesearch
+- pip install google-search
 - pip install requests
 - pip install re
 
